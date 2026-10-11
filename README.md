@@ -8,7 +8,7 @@
 
 ### 👤 Sobre mim
 - 🎓 Cursando Ciências da Computação
-- 🌱 Estudando desenvolvimento web e lógica de programação
+- 🌱 Estudando desenvolvimento web,c#, JavaScript e bancos de dados (SQL)
 - 🎯 Objetivo: construir projetos reais e evoluir a cada commit
 - 📫 Contato: adamcdecarvalho@gmail.com
 
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0000" />
 </p>
 
 ### 📊 Estatísticas
